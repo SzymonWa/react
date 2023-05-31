@@ -1,0 +1,9 @@
+.books-list{
+    list-style-type: none;
+    margin: 2rem;
+    padding: 0;
+  }
+  .book-item  {
+    padding: 1rem;
+    border-bottom: 1px dashed rgba(105, 127, 238, 0.25);
+  }
